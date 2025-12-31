@@ -28,7 +28,7 @@ This project focuses on the **Cornish Coast, UK**, utilizing 10 years of NASA MO
 
 ## Repository Contents
 * **Python Scripts:** Automated data directly downloaded from 'earthaccess' server, cleaning, and multi-parameter visualization.
-* **SeaDAS Project Files:** Processed satellite imagery and validation reports.
+* **Result Project Files:** Processed satellite imagery and validation reports.
 * **Predictive Model:** Trained Random Forest model for PFZ identification.
 * **Final Dissertation:** Full documentation of research methodology and results.
 
