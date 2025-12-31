@@ -1,4 +1,4 @@
-Project Title: Marine Water Quality Analysis and Predicting Optimal Fishing Grounds Using Machine Learning and Remote Sensing
+-Project Title: Marine Water Quality Analysis and Predicting Optimal Fishing Grounds Using Machine Learning and Remote Sensing
 Project Overview
 This project focuses on the Cornish Coast, UK, utilizing 10 years of NASA MODIS satellite data to monitor marine health and predict Potential Fishing Zones (PFZs). By integrating remote sensing with machine learning, the study aims to support sustainable fisheries and marine habitat protection by identifying the environmental factors that influence fish distribution.
 Key Findings
